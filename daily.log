@@ -1,0 +1,42 @@
+2022/01/19 23:38:49.108 [I] [logs.go:38]  log config success!
+2022/01/19 23:38:51.166 [E] [log.go:79]  register db Ping `default`, dial tcp 192.168.1.104:3306: connectex: No connection could be made because the target machine actively refused it. 
+2022/01/19 23:42:06.676 [I] [logs.go:38]  log config success!
+2022/01/19 23:42:06.699 [I] [parser.go:413]  generate router from comments
+2022/01/19 23:42:06.851 [I] [app.go:214]  http server Running on http://:8080
+2022/01/19 23:45:45.826 [I] [logs.go:38]  log config success!
+2022/01/19 23:45:45.831 [I] [parser.go:84]  C:\Users\yqc\workspace\go\src\quickstart\controllers no changed
+2022/01/19 23:45:46.057 [I] [app.go:214]  http server Running on http://:8080
+2022/01/19 23:47:49.151 [I] [logs.go:38]  log config success!
+2022/01/19 23:47:49.158 [I] [parser.go:84]  C:\Users\yqc\workspace\go\src\quickstart\controllers no changed
+2022/01/19 23:47:49.159 [I] [main.go:15]  app quickstart_test start on system windows
+2022/01/19 23:47:49.318 [I] [app.go:214]  http server Running on http://:8080
+2022/01/20 00:19:30.237 [I] [logs.go:38]  log config success!
+2022/01/20 00:19:30.241 [I] [parser.go:84]  C:\Users\yqc\workspace\go\src\quickstart\controllers no changed
+2022/01/20 00:19:30.241 [I] [main.go:15]  app quickstart_test start on system windows
+2022/01/20 00:19:30.394 [I] [app.go:214]  http server Running on http://:8080
+2022/01/20 00:21:06.512 [D] [router.go:969]  |      127.0.0.1|[43m 404 [0m|     5.9866ms| nomatch|[44m GET     [0m /healthcheck
+2022/01/20 00:46:44.702 [I] [logs.go:38]  log config success!
+2022/01/20 00:46:44.706 [I] [parser.go:84]  C:\Users\yqc\workspace\go\src\quickstart\controllers no changed
+2022/01/20 00:46:44.707 [I] [main.go:15]  app quickstart_test start on system windows
+2022/01/20 00:46:44.857 [I] [app.go:214]  http server Running on http://:8080
+2022/01/20 00:52:51.609 [I] [logs.go:38]  log config success!
+2022/01/20 00:52:51.613 [I] [parser.go:84]  C:\Users\yqc\workspace\go\src\quickstart\controllers no changed
+2022/01/20 00:52:51.613 [I] [main.go:15]  app quickstart_test start on system windows
+2022/01/20 00:52:51.767 [I] [app.go:214]  http server Running on http://:8080
+2022/01/20 00:52:51.767 [I] [admin.go:447]  Admin server Running on :8088
+2022/01/20 00:53:02.126 [D] [router.go:969]  |      127.0.0.1|[43m 404 [0m|     4.0171ms| nomatch|[44m GET     [0m /healthcheck
+2022/01/20 00:54:18.805 [I] [logs.go:38]  log config success!
+2022/01/20 00:54:18.809 [I] [parser.go:84]  C:\Users\yqc\workspace\go\src\quickstart\controllers no changed
+2022/01/20 00:54:18.810 [I] [main.go:15]  app quickstart_test start on system windows
+2022/01/20 00:54:18.972 [I] [admin.go:447]  Admin server Running on :8088
+2022/01/20 00:54:18.972 [I] [app.go:214]  http server Running on http://:8080
+2022/01/20 00:55:39.177 [I] [logs.go:38]  log config success!
+2022/01/20 00:55:39.181 [I] [parser.go:84]  C:\Users\yqc\workspace\go\src\quickstart\controllers no changed
+2022/01/20 00:55:39.181 [I] [main.go:15]  app quickstart_test start on system windows
+2022/01/20 00:55:39.331 [I] [app.go:214]  http server Running on http://:8080
+2022/01/20 00:55:39.331 [I] [admin.go:447]  Admin server Running on :8088
+2022/01/20 00:56:55.519 [I] [logs.go:38]  log config success!
+2022/01/20 00:56:55.524 [I] [parser.go:84]  C:\Users\yqc\workspace\go\src\quickstart\controllers no changed
+2022/01/20 00:56:55.525 [I] [main.go:15]  app quickstart_test start on system windows
+2022/01/20 00:56:55.687 [I] [app.go:214]  http server Running on http://:8080
+2022/01/20 00:56:55.687 [I] [admin.go:447]  Admin server Running on :8088

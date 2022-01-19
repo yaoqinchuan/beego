@@ -1,9 +1,10 @@
 package main
 
 import (
-	"fmt"
 	"github.com/astaxie/beego"
-	_ "quickstart/models"
+	"github.com/astaxie/beego/logs"
+	_ "quickstart/models/orms"
+	_ "quickstart/models/session"
 	_ "quickstart/routers"
 	"quickstart/utils"
 )
@@ -11,7 +12,7 @@ import (
 func initMyOwnerHook() error {
 	app_name := utils.GetStringConfig("appname")
 	host_os := utils.GetStringConfig("hostos")
-	fmt.Println("app " + app_name + " start on system " + host_os)
+	logs.Info("app " + app_name + " start on system " + host_os)
 	return nil
 }
 
